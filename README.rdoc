@@ -1,0 +1,4 @@
+Repository for first app.
+
+-  an article table sofar for the blog
+- CRUD implemented for article table
