@@ -1,4 +1,6 @@
 class ArticlesController < ApplicationController
+  
+  # calls the set_article method on the following methods edit, update, show, destroy ---refactored code
   before_action :set_article, only: [:edit, :update, :show, :destroy]
 
   def index
@@ -11,7 +13,7 @@ class ArticlesController < ApplicationController
   end
   
   def edit
-    
+       # @article = Article.find(params[:id])  
   end
   
   def create
@@ -27,7 +29,7 @@ class ArticlesController < ApplicationController
   
   
   def update
-   
+     #    @article = Article.find(params[:id])
     if @article.update(article_params)
       flash[:notice] = "Article was successfully updated"
       redirect_to article_path(@article)
@@ -38,12 +40,12 @@ class ArticlesController < ApplicationController
   
   
   def show
-   
+     #    @article = Article.find(params[:id])
   end
   
   
   def destroy
-    
+     #     @article = Article.find(params[:id])
     @article.destroy
     flash[:notice] = "Article was succesfully deleted"
     redirect_to articles_path
