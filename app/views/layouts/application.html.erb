@@ -1,4 +1,8 @@
 <!DOCTYPE html>
+
+
+<!-- ANY CODE IN here will be served on all the apps pages -->
+
 <html>
 <head>
   <title>AlphaBlog</title>
@@ -7,9 +11,15 @@
   <%= csrf_meta_tags %>
 </head>
 <body>
+  <!-- renders the _navigation.html.erb file in layouts/ for the messages returned -->
+  <%= render "layouts/navigation" %>
+  
   <!-- renders the _messages.html.erb file in layouts/ for the messages returned -->
   <%= render "layouts/messages" %>
-  <%= yield %>
+  
+  <div class="container"> <!-- renders all pages in a container -->
+    <%= yield %>
+  </div>
 
 </body>
 </html>
