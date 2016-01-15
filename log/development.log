@@ -8687,3 +8687,1234 @@ Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.
 
 Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for 82.11.215.109 at 2016-01-14 21:50:49 +0000
 Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/" for 82.11.215.109 at 2016-01-14 21:52:15 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (0.2ms)
+  Rendered layouts/_navigation.html.erb (2.3ms)
+  Rendered layouts/_messages.html.erb (0.1ms)
+Completed 200 OK in 99ms (Views: 96.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/bootstrap/affix.self-3555752f8a930795ee9e56751a52e6871104ae85d01b3ab8363da3802a5ecc78.js?body=1" for 82.11.215.109 at 2016-01-14 21:52:16 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/carousel.self-35d204878d906298e55bc24553e11fd89b980fc4ffe5792fe36af8c0da289c54.js?body=1" for 82.11.215.109 at 2016-01-14 21:52:16 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/dropdown.self-e56c2ffee4618411d43ecf15c89273f6223847ad756e1cd17545d04afa732ed4.js?body=1" for 82.11.215.109 at 2016-01-14 21:52:16 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/button.self-e74d33ba39500940a78d6fa4d2d64f6ca7fd86d60a2149641f7fde7ba711d8a1.js?body=1" for 82.11.215.109 at 2016-01-14 21:52:16 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/" for 10.240.0.173 at 2016-01-14 22:07:18 +0000
+Cannot render console from 10.240.0.173! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (10.1ms)
+  Rendered layouts/_navigation.html.erb (0.4ms)
+  Rendered layouts/_messages.html.erb (1.1ms)
+Completed 200 OK in 746ms (Views: 717.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/custom.self-ce592a478115cf73e2ec8bab3a6ef827d63f034db605436c52a00bf63b38ff73.css?body=1" for 10.240.0.173 at 2016-01-14 22:07:19 +0000
+Cannot render console from 10.240.0.173! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/button.self-e74d33ba39500940a78d6fa4d2d64f6ca7fd86d60a2149641f7fde7ba711d8a1.js?body=1" for 10.240.0.173 at 2016-01-14 22:07:19 +0000
+Cannot render console from 10.240.0.173! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/dropdown.self-e56c2ffee4618411d43ecf15c89273f6223847ad756e1cd17545d04afa732ed4.js?body=1" for 10.240.0.173 at 2016-01-14 22:07:19 +0000
+Cannot render console from 10.240.0.173! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/alert.self-d8b7bd612b3dcfdefb7b5539b9d5848d66ccbd3e7af8bb8d48bfb3288aaa7be8.js?body=1" for 10.240.0.174 at 2016-01-14 22:07:19 +0000
+Cannot render console from 10.240.0.174! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for 10.240.0.173 at 2016-01-14 22:07:19 +0000
+Cannot render console from 10.240.0.173! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/" for 82.11.215.109 at 2016-01-15 20:43:39 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  [1m[36mActiveRecord::SchemaMigration Load (0.2ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (5.4ms)
+  Rendered layouts/_navigation.html.erb (1.9ms)
+  Rendered layouts/_messages.html.erb (0.4ms)
+Completed 200 OK in 733ms (Views: 719.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/bootstrap/alert.self-d8b7bd612b3dcfdefb7b5539b9d5848d66ccbd3e7af8bb8d48bfb3288aaa7be8.js?body=1" for 82.11.215.109 at 2016-01-15 20:43:40 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for 82.11.215.109 at 2016-01-15 20:43:41 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/carousel.self-35d204878d906298e55bc24553e11fd89b980fc4ffe5792fe36af8c0da289c54.js?body=1" for 82.11.215.109 at 2016-01-15 20:43:41 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/transition.self-3b268d4cd8c79e46ded7392885f72f64ffb5b0d49948a12b8cf9779f6163e13a.js?body=1" for 82.11.215.109 at 2016-01-15 20:43:41 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/collapse.self-056c40532d9f0f126ec17e839f60c942f573fbd61a086e7f156306e3fc5e8c1f.js?body=1" for 82.11.215.109 at 2016-01-15 20:43:41 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap-sprockets.self-fbfa5ad7d9aa0afe439ec4ff3883acc4cb92b62cb67c40d674320c9aa1d4642d.js?body=1" for 82.11.215.109 at 2016-01-15 20:43:41 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/button.self-e74d33ba39500940a78d6fa4d2d64f6ca7fd86d60a2149641f7fde7ba711d8a1.js?body=1" for 82.11.215.109 at 2016-01-15 20:43:41 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/" for 82.11.215.109 at 2016-01-15 20:55:42 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (0.6ms)
+  Rendered layouts/_navigation.html.erb (0.4ms)
+  Rendered layouts/_messages.html.erb (0.1ms)
+Completed 200 OK in 158ms (Views: 157.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/custom.self-ce592a478115cf73e2ec8bab3a6ef827d63f034db605436c52a00bf63b38ff73.css?body=1" for 82.11.215.109 at 2016-01-15 20:55:42 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/button.self-e74d33ba39500940a78d6fa4d2d64f6ca7fd86d60a2149641f7fde7ba711d8a1.js?body=1" for 82.11.215.109 at 2016-01-15 20:55:42 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for 82.11.215.109 at 2016-01-15 20:55:42 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/affix.self-3555752f8a930795ee9e56751a52e6871104ae85d01b3ab8363da3802a5ecc78.js?body=1" for 82.11.215.109 at 2016-01-15 20:55:42 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for 82.11.215.109 at 2016-01-15 20:55:42 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/alert.self-d8b7bd612b3dcfdefb7b5539b9d5848d66ccbd3e7af8bb8d48bfb3288aaa7be8.js?body=1" for 82.11.215.109 at 2016-01-15 20:55:43 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for 82.11.215.109 at 2016-01-15 20:55:43 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/collapse.self-056c40532d9f0f126ec17e839f60c942f573fbd61a086e7f156306e3fc5e8c1f.js?body=1" for 82.11.215.109 at 2016-01-15 20:55:43 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/modal.self-62463080dba6b9d024ff0a3192da0e76eacbc683194f3395047c6f5cfa0acb59.js?body=1" for 82.11.215.109 at 2016-01-15 20:55:43 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/carousel.self-35d204878d906298e55bc24553e11fd89b980fc4ffe5792fe36af8c0da289c54.js?body=1" for 82.11.215.109 at 2016-01-15 20:55:43 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/tooltip.self-facdc69246a072acb927ded77ff655f7c27a518b9357fddd45d119fbc8a0ab9f.js?body=1" for 82.11.215.109 at 2016-01-15 20:55:43 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap-sprockets.self-fbfa5ad7d9aa0afe439ec4ff3883acc4cb92b62cb67c40d674320c9aa1d4642d.js?body=1" for 82.11.215.109 at 2016-01-15 20:55:43 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for 82.11.215.109 at 2016-01-15 20:55:43 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/dropdown.self-e56c2ffee4618411d43ecf15c89273f6223847ad756e1cd17545d04afa732ed4.js?body=1" for 82.11.215.109 at 2016-01-15 20:55:43 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/scrollspy.self-52afd90e8ba97d9f08617a13986e8869d6c4a45751c0bff59a6f91241e722aca.js?body=1" for 82.11.215.109 at 2016-01-15 20:55:43 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/popover.self-210cff1fb4b72b71a29b5122180cb5937c8145cd13a934dc838280f1d9607a3e.js?body=1" for 82.11.215.109 at 2016-01-15 20:55:43 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/tab.self-dad0d5c377f9fae26394484535ebb23ccf68afae084f896af6ea4cdf8c9f6ae0.js?body=1" for 82.11.215.109 at 2016-01-15 20:55:43 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for 82.11.215.109 at 2016-01-15 20:55:43 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/transition.self-3b268d4cd8c79e46ded7392885f72f64ffb5b0d49948a12b8cf9779f6163e13a.js?body=1" for 82.11.215.109 at 2016-01-15 20:55:43 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/" for 82.11.215.109 at 2016-01-15 21:00:54 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (0.1ms)
+  Rendered layouts/_navigation.html.erb (0.4ms)
+  Rendered layouts/_messages.html.erb (0.1ms)
+Completed 200 OK in 2438ms (Views: 2437.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/custom.self-cb30045a0c5454d1418058d54a573c570291a5bb432b4902f375542011def3fe.css?body=1" for 82.11.215.109 at 2016-01-15 21:00:57 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/alert.self-d8b7bd612b3dcfdefb7b5539b9d5848d66ccbd3e7af8bb8d48bfb3288aaa7be8.js?body=1" for 82.11.215.109 at 2016-01-15 21:00:57 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for 82.11.215.109 at 2016-01-15 21:00:57 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for 82.11.215.109 at 2016-01-15 21:00:57 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for 82.11.215.109 at 2016-01-15 21:00:57 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/affix.self-3555752f8a930795ee9e56751a52e6871104ae85d01b3ab8363da3802a5ecc78.js?body=1" for 82.11.215.109 at 2016-01-15 21:00:57 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/button.self-e74d33ba39500940a78d6fa4d2d64f6ca7fd86d60a2149641f7fde7ba711d8a1.js?body=1" for 82.11.215.109 at 2016-01-15 21:00:57 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/collapse.self-056c40532d9f0f126ec17e839f60c942f573fbd61a086e7f156306e3fc5e8c1f.js?body=1" for 82.11.215.109 at 2016-01-15 21:00:57 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/modal.self-62463080dba6b9d024ff0a3192da0e76eacbc683194f3395047c6f5cfa0acb59.js?body=1" for 82.11.215.109 at 2016-01-15 21:00:57 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/tab.self-dad0d5c377f9fae26394484535ebb23ccf68afae084f896af6ea4cdf8c9f6ae0.js?body=1" for 82.11.215.109 at 2016-01-15 21:00:57 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/tooltip.self-facdc69246a072acb927ded77ff655f7c27a518b9357fddd45d119fbc8a0ab9f.js?body=1" for 82.11.215.109 at 2016-01-15 21:00:57 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/carousel.self-35d204878d906298e55bc24553e11fd89b980fc4ffe5792fe36af8c0da289c54.js?body=1" for 82.11.215.109 at 2016-01-15 21:00:57 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/dropdown.self-e56c2ffee4618411d43ecf15c89273f6223847ad756e1cd17545d04afa732ed4.js?body=1" for 82.11.215.109 at 2016-01-15 21:00:57 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/scrollspy.self-52afd90e8ba97d9f08617a13986e8869d6c4a45751c0bff59a6f91241e722aca.js?body=1" for 82.11.215.109 at 2016-01-15 21:00:57 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/transition.self-3b268d4cd8c79e46ded7392885f72f64ffb5b0d49948a12b8cf9779f6163e13a.js?body=1" for 82.11.215.109 at 2016-01-15 21:00:57 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/popover.self-210cff1fb4b72b71a29b5122180cb5937c8145cd13a934dc838280f1d9607a3e.js?body=1" for 82.11.215.109 at 2016-01-15 21:00:57 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap-sprockets.self-fbfa5ad7d9aa0afe439ec4ff3883acc4cb92b62cb67c40d674320c9aa1d4642d.js?body=1" for 82.11.215.109 at 2016-01-15 21:00:57 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for 82.11.215.109 at 2016-01-15 21:00:57 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for 82.11.215.109 at 2016-01-15 21:00:57 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/dmr_2-a240b5082d3e5bd95b49910a16bd9b4e90f62b735187c7006cdb2ae04689d5f2.gif" for 82.11.215.109 at 2016-01-15 21:00:57 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/" for 82.11.215.109 at 2016-01-15 21:01:31 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (0.1ms)
+  Rendered layouts/_navigation.html.erb (0.5ms)
+  Rendered layouts/_messages.html.erb (0.1ms)
+Completed 200 OK in 2392ms (Views: 2391.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/custom.self-5a56ee54e22619af75420693ebe51370403f40f4c163ddf7ff210cfbd24c0f49.css?body=1" for 82.11.215.109 at 2016-01-15 21:01:33 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for 82.11.215.109 at 2016-01-15 21:01:33 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/alert.self-d8b7bd612b3dcfdefb7b5539b9d5848d66ccbd3e7af8bb8d48bfb3288aaa7be8.js?body=1" for 82.11.215.109 at 2016-01-15 21:01:33 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for 82.11.215.109 at 2016-01-15 21:01:33 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for 82.11.215.109 at 2016-01-15 21:01:33 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/button.self-e74d33ba39500940a78d6fa4d2d64f6ca7fd86d60a2149641f7fde7ba711d8a1.js?body=1" for 82.11.215.109 at 2016-01-15 21:01:34 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/collapse.self-056c40532d9f0f126ec17e839f60c942f573fbd61a086e7f156306e3fc5e8c1f.js?body=1" for 82.11.215.109 at 2016-01-15 21:01:34 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/affix.self-3555752f8a930795ee9e56751a52e6871104ae85d01b3ab8363da3802a5ecc78.js?body=1" for 82.11.215.109 at 2016-01-15 21:01:34 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/modal.self-62463080dba6b9d024ff0a3192da0e76eacbc683194f3395047c6f5cfa0acb59.js?body=1" for 82.11.215.109 at 2016-01-15 21:01:34 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/tab.self-dad0d5c377f9fae26394484535ebb23ccf68afae084f896af6ea4cdf8c9f6ae0.js?body=1" for 82.11.215.109 at 2016-01-15 21:01:34 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/carousel.self-35d204878d906298e55bc24553e11fd89b980fc4ffe5792fe36af8c0da289c54.js?body=1" for 82.11.215.109 at 2016-01-15 21:01:34 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/dropdown.self-e56c2ffee4618411d43ecf15c89273f6223847ad756e1cd17545d04afa732ed4.js?body=1" for 82.11.215.109 at 2016-01-15 21:01:34 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/transition.self-3b268d4cd8c79e46ded7392885f72f64ffb5b0d49948a12b8cf9779f6163e13a.js?body=1" for 82.11.215.109 at 2016-01-15 21:01:34 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/scrollspy.self-52afd90e8ba97d9f08617a13986e8869d6c4a45751c0bff59a6f91241e722aca.js?body=1" for 82.11.215.109 at 2016-01-15 21:01:34 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/tooltip.self-facdc69246a072acb927ded77ff655f7c27a518b9357fddd45d119fbc8a0ab9f.js?body=1" for 82.11.215.109 at 2016-01-15 21:01:34 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap-sprockets.self-fbfa5ad7d9aa0afe439ec4ff3883acc4cb92b62cb67c40d674320c9aa1d4642d.js?body=1" for 82.11.215.109 at 2016-01-15 21:01:34 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for 82.11.215.109 at 2016-01-15 21:01:34 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/popover.self-210cff1fb4b72b71a29b5122180cb5937c8145cd13a934dc838280f1d9607a3e.js?body=1" for 82.11.215.109 at 2016-01-15 21:01:34 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for 82.11.215.109 at 2016-01-15 21:01:34 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/dmr_2-a240b5082d3e5bd95b49910a16bd9b4e90f62b735187c7006cdb2ae04689d5f2.gif" for 82.11.215.109 at 2016-01-15 21:01:34 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/" for 82.11.215.109 at 2016-01-15 21:01:57 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (0.1ms)
+  Rendered layouts/_navigation.html.erb (0.4ms)
+  Rendered layouts/_messages.html.erb (0.1ms)
+Completed 200 OK in 2306ms (Views: 2305.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/custom.self-5911ffdb68709c00e7956a15d6a19332952ba6f92790dbd1d7f551214b402a0e.css?body=1" for 82.11.215.109 at 2016-01-15 21:02:00 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for 82.11.215.109 at 2016-01-15 21:02:00 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/affix.self-3555752f8a930795ee9e56751a52e6871104ae85d01b3ab8363da3802a5ecc78.js?body=1" for 82.11.215.109 at 2016-01-15 21:02:00 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for 82.11.215.109 at 2016-01-15 21:02:00 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/alert.self-d8b7bd612b3dcfdefb7b5539b9d5848d66ccbd3e7af8bb8d48bfb3288aaa7be8.js?body=1" for 82.11.215.109 at 2016-01-15 21:02:00 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for 82.11.215.109 at 2016-01-15 21:02:00 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/modal.self-62463080dba6b9d024ff0a3192da0e76eacbc683194f3395047c6f5cfa0acb59.js?body=1" for 82.11.215.109 at 2016-01-15 21:02:00 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/button.self-e74d33ba39500940a78d6fa4d2d64f6ca7fd86d60a2149641f7fde7ba711d8a1.js?body=1" for 82.11.215.109 at 2016-01-15 21:02:00 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/collapse.self-056c40532d9f0f126ec17e839f60c942f573fbd61a086e7f156306e3fc5e8c1f.js?body=1" for 82.11.215.109 at 2016-01-15 21:02:00 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/tab.self-dad0d5c377f9fae26394484535ebb23ccf68afae084f896af6ea4cdf8c9f6ae0.js?body=1" for 82.11.215.109 at 2016-01-15 21:02:00 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/tooltip.self-facdc69246a072acb927ded77ff655f7c27a518b9357fddd45d119fbc8a0ab9f.js?body=1" for 82.11.215.109 at 2016-01-15 21:02:00 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/dropdown.self-e56c2ffee4618411d43ecf15c89273f6223847ad756e1cd17545d04afa732ed4.js?body=1" for 82.11.215.109 at 2016-01-15 21:02:00 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/transition.self-3b268d4cd8c79e46ded7392885f72f64ffb5b0d49948a12b8cf9779f6163e13a.js?body=1" for 82.11.215.109 at 2016-01-15 21:02:00 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap-sprockets.self-fbfa5ad7d9aa0afe439ec4ff3883acc4cb92b62cb67c40d674320c9aa1d4642d.js?body=1" for 82.11.215.109 at 2016-01-15 21:02:00 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/scrollspy.self-52afd90e8ba97d9f08617a13986e8869d6c4a45751c0bff59a6f91241e722aca.js?body=1" for 82.11.215.109 at 2016-01-15 21:02:00 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/carousel.self-35d204878d906298e55bc24553e11fd89b980fc4ffe5792fe36af8c0da289c54.js?body=1" for 82.11.215.109 at 2016-01-15 21:02:00 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/popover.self-210cff1fb4b72b71a29b5122180cb5937c8145cd13a934dc838280f1d9607a3e.js?body=1" for 82.11.215.109 at 2016-01-15 21:02:00 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for 82.11.215.109 at 2016-01-15 21:02:00 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for 82.11.215.109 at 2016-01-15 21:02:00 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/dmr_2-a240b5082d3e5bd95b49910a16bd9b4e90f62b735187c7006cdb2ae04689d5f2.gif" for 82.11.215.109 at 2016-01-15 21:02:00 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/" for 82.11.215.109 at 2016-01-15 21:02:27 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (0.1ms)
+  Rendered layouts/_navigation.html.erb (0.5ms)
+  Rendered layouts/_messages.html.erb (0.1ms)
+Completed 200 OK in 2110ms (Views: 2109.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/custom.self-810471860515316fa30e0c7ab1fd517c60ce117dce6a5ab6c419400e127b347b.css?body=1" for 82.11.215.109 at 2016-01-15 21:02:30 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for 82.11.215.109 at 2016-01-15 21:02:30 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for 82.11.215.109 at 2016-01-15 21:02:30 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for 82.11.215.109 at 2016-01-15 21:02:30 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/affix.self-3555752f8a930795ee9e56751a52e6871104ae85d01b3ab8363da3802a5ecc78.js?body=1" for 82.11.215.109 at 2016-01-15 21:02:30 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/alert.self-d8b7bd612b3dcfdefb7b5539b9d5848d66ccbd3e7af8bb8d48bfb3288aaa7be8.js?body=1" for 82.11.215.109 at 2016-01-15 21:02:30 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/button.self-e74d33ba39500940a78d6fa4d2d64f6ca7fd86d60a2149641f7fde7ba711d8a1.js?body=1" for 82.11.215.109 at 2016-01-15 21:02:30 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/collapse.self-056c40532d9f0f126ec17e839f60c942f573fbd61a086e7f156306e3fc5e8c1f.js?body=1" for 82.11.215.109 at 2016-01-15 21:02:30 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/tooltip.self-facdc69246a072acb927ded77ff655f7c27a518b9357fddd45d119fbc8a0ab9f.js?body=1" for 82.11.215.109 at 2016-01-15 21:02:30 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/modal.self-62463080dba6b9d024ff0a3192da0e76eacbc683194f3395047c6f5cfa0acb59.js?body=1" for 82.11.215.109 at 2016-01-15 21:02:30 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/tab.self-dad0d5c377f9fae26394484535ebb23ccf68afae084f896af6ea4cdf8c9f6ae0.js?body=1" for 82.11.215.109 at 2016-01-15 21:02:30 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/dropdown.self-e56c2ffee4618411d43ecf15c89273f6223847ad756e1cd17545d04afa732ed4.js?body=1" for 82.11.215.109 at 2016-01-15 21:02:30 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/carousel.self-35d204878d906298e55bc24553e11fd89b980fc4ffe5792fe36af8c0da289c54.js?body=1" for 82.11.215.109 at 2016-01-15 21:02:30 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/scrollspy.self-52afd90e8ba97d9f08617a13986e8869d6c4a45751c0bff59a6f91241e722aca.js?body=1" for 82.11.215.109 at 2016-01-15 21:02:30 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap-sprockets.self-fbfa5ad7d9aa0afe439ec4ff3883acc4cb92b62cb67c40d674320c9aa1d4642d.js?body=1" for 82.11.215.109 at 2016-01-15 21:02:30 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/transition.self-3b268d4cd8c79e46ded7392885f72f64ffb5b0d49948a12b8cf9779f6163e13a.js?body=1" for 82.11.215.109 at 2016-01-15 21:02:30 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for 82.11.215.109 at 2016-01-15 21:02:30 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/popover.self-210cff1fb4b72b71a29b5122180cb5937c8145cd13a934dc838280f1d9607a3e.js?body=1" for 82.11.215.109 at 2016-01-15 21:02:30 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for 82.11.215.109 at 2016-01-15 21:02:30 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/dmr_2-a240b5082d3e5bd95b49910a16bd9b4e90f62b735187c7006cdb2ae04689d5f2.gif" for 82.11.215.109 at 2016-01-15 21:02:30 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/" for 82.11.215.109 at 2016-01-15 21:02:38 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (0.1ms)
+  Rendered layouts/_navigation.html.erb (0.5ms)
+  Rendered layouts/_messages.html.erb (0.1ms)
+Completed 200 OK in 3014ms (Views: 3013.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/custom.self-1c5b106d631aed8ab2912ac1affdfb0bd10e52404a2c490c1a5d5fb4e02bff4d.css?body=1" for 82.11.215.109 at 2016-01-15 21:02:41 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for 82.11.215.109 at 2016-01-15 21:02:41 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/affix.self-3555752f8a930795ee9e56751a52e6871104ae85d01b3ab8363da3802a5ecc78.js?body=1" for 82.11.215.109 at 2016-01-15 21:02:41 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for 82.11.215.109 at 2016-01-15 21:02:41 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for 82.11.215.109 at 2016-01-15 21:02:41 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/alert.self-d8b7bd612b3dcfdefb7b5539b9d5848d66ccbd3e7af8bb8d48bfb3288aaa7be8.js?body=1" for 82.11.215.109 at 2016-01-15 21:02:42 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/button.self-e74d33ba39500940a78d6fa4d2d64f6ca7fd86d60a2149641f7fde7ba711d8a1.js?body=1" for 82.11.215.109 at 2016-01-15 21:02:42 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/tab.self-dad0d5c377f9fae26394484535ebb23ccf68afae084f896af6ea4cdf8c9f6ae0.js?body=1" for 82.11.215.109 at 2016-01-15 21:02:42 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/collapse.self-056c40532d9f0f126ec17e839f60c942f573fbd61a086e7f156306e3fc5e8c1f.js?body=1" for 82.11.215.109 at 2016-01-15 21:02:42 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/modal.self-62463080dba6b9d024ff0a3192da0e76eacbc683194f3395047c6f5cfa0acb59.js?body=1" for 82.11.215.109 at 2016-01-15 21:02:42 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/tooltip.self-facdc69246a072acb927ded77ff655f7c27a518b9357fddd45d119fbc8a0ab9f.js?body=1" for 82.11.215.109 at 2016-01-15 21:02:42 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/carousel.self-35d204878d906298e55bc24553e11fd89b980fc4ffe5792fe36af8c0da289c54.js?body=1" for 82.11.215.109 at 2016-01-15 21:02:42 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/transition.self-3b268d4cd8c79e46ded7392885f72f64ffb5b0d49948a12b8cf9779f6163e13a.js?body=1" for 82.11.215.109 at 2016-01-15 21:02:42 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/dropdown.self-e56c2ffee4618411d43ecf15c89273f6223847ad756e1cd17545d04afa732ed4.js?body=1" for 82.11.215.109 at 2016-01-15 21:02:42 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/popover.self-210cff1fb4b72b71a29b5122180cb5937c8145cd13a934dc838280f1d9607a3e.js?body=1" for 82.11.215.109 at 2016-01-15 21:02:42 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/scrollspy.self-52afd90e8ba97d9f08617a13986e8869d6c4a45751c0bff59a6f91241e722aca.js?body=1" for 82.11.215.109 at 2016-01-15 21:02:42 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap-sprockets.self-fbfa5ad7d9aa0afe439ec4ff3883acc4cb92b62cb67c40d674320c9aa1d4642d.js?body=1" for 82.11.215.109 at 2016-01-15 21:02:42 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for 82.11.215.109 at 2016-01-15 21:02:42 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for 82.11.215.109 at 2016-01-15 21:02:42 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/dmr_2-a240b5082d3e5bd95b49910a16bd9b4e90f62b735187c7006cdb2ae04689d5f2.gif" for 82.11.215.109 at 2016-01-15 21:02:42 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/" for 82.11.215.109 at 2016-01-15 21:02:54 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (0.1ms)
+  Rendered layouts/_navigation.html.erb (0.3ms)
+  Rendered layouts/_messages.html.erb (0.1ms)
+Completed 200 OK in 2466ms (Views: 2465.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/custom.self-8aaa9ba6ba7f20424753c57fc3df559cf9a4b1677efed796721a272e173d567d.css?body=1" for 82.11.215.109 at 2016-01-15 21:02:56 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for 82.11.215.109 at 2016-01-15 21:02:57 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for 82.11.215.109 at 2016-01-15 21:02:57 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for 82.11.215.109 at 2016-01-15 21:02:57 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/affix.self-3555752f8a930795ee9e56751a52e6871104ae85d01b3ab8363da3802a5ecc78.js?body=1" for 82.11.215.109 at 2016-01-15 21:02:57 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/button.self-e74d33ba39500940a78d6fa4d2d64f6ca7fd86d60a2149641f7fde7ba711d8a1.js?body=1" for 82.11.215.109 at 2016-01-15 21:02:57 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/collapse.self-056c40532d9f0f126ec17e839f60c942f573fbd61a086e7f156306e3fc5e8c1f.js?body=1" for 82.11.215.109 at 2016-01-15 21:02:57 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/alert.self-d8b7bd612b3dcfdefb7b5539b9d5848d66ccbd3e7af8bb8d48bfb3288aaa7be8.js?body=1" for 82.11.215.109 at 2016-01-15 21:02:57 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/modal.self-62463080dba6b9d024ff0a3192da0e76eacbc683194f3395047c6f5cfa0acb59.js?body=1" for 82.11.215.109 at 2016-01-15 21:02:57 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/tab.self-dad0d5c377f9fae26394484535ebb23ccf68afae084f896af6ea4cdf8c9f6ae0.js?body=1" for 82.11.215.109 at 2016-01-15 21:02:57 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/carousel.self-35d204878d906298e55bc24553e11fd89b980fc4ffe5792fe36af8c0da289c54.js?body=1" for 82.11.215.109 at 2016-01-15 21:02:57 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/dropdown.self-e56c2ffee4618411d43ecf15c89273f6223847ad756e1cd17545d04afa732ed4.js?body=1" for 82.11.215.109 at 2016-01-15 21:02:57 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for 82.11.215.109 at 2016-01-15 21:02:57 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/scrollspy.self-52afd90e8ba97d9f08617a13986e8869d6c4a45751c0bff59a6f91241e722aca.js?body=1" for 82.11.215.109 at 2016-01-15 21:02:57 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/tooltip.self-facdc69246a072acb927ded77ff655f7c27a518b9357fddd45d119fbc8a0ab9f.js?body=1" for 82.11.215.109 at 2016-01-15 21:02:57 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/transition.self-3b268d4cd8c79e46ded7392885f72f64ffb5b0d49948a12b8cf9779f6163e13a.js?body=1" for 82.11.215.109 at 2016-01-15 21:02:57 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap-sprockets.self-fbfa5ad7d9aa0afe439ec4ff3883acc4cb92b62cb67c40d674320c9aa1d4642d.js?body=1" for 82.11.215.109 at 2016-01-15 21:02:57 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/popover.self-210cff1fb4b72b71a29b5122180cb5937c8145cd13a934dc838280f1d9607a3e.js?body=1" for 82.11.215.109 at 2016-01-15 21:02:57 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for 82.11.215.109 at 2016-01-15 21:02:57 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/dmr_2-a240b5082d3e5bd95b49910a16bd9b4e90f62b735187c7006cdb2ae04689d5f2.gif" for 82.11.215.109 at 2016-01-15 21:02:57 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/" for 82.11.215.109 at 2016-01-15 21:04:29 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (0.1ms)
+  Rendered layouts/_navigation.html.erb (0.4ms)
+  Rendered layouts/_messages.html.erb (0.1ms)
+Completed 200 OK in 2678ms (Views: 2677.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/custom.self-2b6ca0caeadad404fb252554921613b4c79fc37243d4be4eacfd94a142ef356d.css?body=1" for 82.11.215.109 at 2016-01-15 21:04:32 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/alert.self-d8b7bd612b3dcfdefb7b5539b9d5848d66ccbd3e7af8bb8d48bfb3288aaa7be8.js?body=1" for 82.11.215.109 at 2016-01-15 21:04:32 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for 82.11.215.109 at 2016-01-15 21:04:32 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for 82.11.215.109 at 2016-01-15 21:04:32 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/affix.self-3555752f8a930795ee9e56751a52e6871104ae85d01b3ab8363da3802a5ecc78.js?body=1" for 82.11.215.109 at 2016-01-15 21:04:32 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for 82.11.215.109 at 2016-01-15 21:04:32 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/button.self-e74d33ba39500940a78d6fa4d2d64f6ca7fd86d60a2149641f7fde7ba711d8a1.js?body=1" for 82.11.215.109 at 2016-01-15 21:04:32 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/collapse.self-056c40532d9f0f126ec17e839f60c942f573fbd61a086e7f156306e3fc5e8c1f.js?body=1" for 82.11.215.109 at 2016-01-15 21:04:32 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/modal.self-62463080dba6b9d024ff0a3192da0e76eacbc683194f3395047c6f5cfa0acb59.js?body=1" for 82.11.215.109 at 2016-01-15 21:04:32 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/tab.self-dad0d5c377f9fae26394484535ebb23ccf68afae084f896af6ea4cdf8c9f6ae0.js?body=1" for 82.11.215.109 at 2016-01-15 21:04:32 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/tooltip.self-facdc69246a072acb927ded77ff655f7c27a518b9357fddd45d119fbc8a0ab9f.js?body=1" for 82.11.215.109 at 2016-01-15 21:04:32 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/carousel.self-35d204878d906298e55bc24553e11fd89b980fc4ffe5792fe36af8c0da289c54.js?body=1" for 82.11.215.109 at 2016-01-15 21:04:32 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/transition.self-3b268d4cd8c79e46ded7392885f72f64ffb5b0d49948a12b8cf9779f6163e13a.js?body=1" for 82.11.215.109 at 2016-01-15 21:04:32 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/dropdown.self-e56c2ffee4618411d43ecf15c89273f6223847ad756e1cd17545d04afa732ed4.js?body=1" for 82.11.215.109 at 2016-01-15 21:04:32 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/scrollspy.self-52afd90e8ba97d9f08617a13986e8869d6c4a45751c0bff59a6f91241e722aca.js?body=1" for 82.11.215.109 at 2016-01-15 21:04:32 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/popover.self-210cff1fb4b72b71a29b5122180cb5937c8145cd13a934dc838280f1d9607a3e.js?body=1" for 82.11.215.109 at 2016-01-15 21:04:32 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap-sprockets.self-fbfa5ad7d9aa0afe439ec4ff3883acc4cb92b62cb67c40d674320c9aa1d4642d.js?body=1" for 82.11.215.109 at 2016-01-15 21:04:32 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for 82.11.215.109 at 2016-01-15 21:04:32 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for 82.11.215.109 at 2016-01-15 21:04:33 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/dmr_2-a240b5082d3e5bd95b49910a16bd9b4e90f62b735187c7006cdb2ae04689d5f2.gif" for 82.11.215.109 at 2016-01-15 21:04:33 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/" for 82.11.215.109 at 2016-01-15 21:06:33 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (0.1ms)
+  Rendered layouts/_navigation.html.erb (0.4ms)
+  Rendered layouts/_messages.html.erb (0.1ms)
+Completed 200 OK in 2002ms (Views: 2001.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/custom.self-fe1d155f34521a76232e46b449e25c855215d5fa0fac59f94fc3eb70b29ac140.css?body=1" for 82.11.215.109 at 2016-01-15 21:06:35 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/affix.self-3555752f8a930795ee9e56751a52e6871104ae85d01b3ab8363da3802a5ecc78.js?body=1" for 82.11.215.109 at 2016-01-15 21:06:35 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for 82.11.215.109 at 2016-01-15 21:06:35 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for 82.11.215.109 at 2016-01-15 21:06:35 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for 82.11.215.109 at 2016-01-15 21:06:35 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/alert.self-d8b7bd612b3dcfdefb7b5539b9d5848d66ccbd3e7af8bb8d48bfb3288aaa7be8.js?body=1" for 82.11.215.109 at 2016-01-15 21:06:35 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/button.self-e74d33ba39500940a78d6fa4d2d64f6ca7fd86d60a2149641f7fde7ba711d8a1.js?body=1" for 82.11.215.109 at 2016-01-15 21:06:35 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/collapse.self-056c40532d9f0f126ec17e839f60c942f573fbd61a086e7f156306e3fc5e8c1f.js?body=1" for 82.11.215.109 at 2016-01-15 21:06:35 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/modal.self-62463080dba6b9d024ff0a3192da0e76eacbc683194f3395047c6f5cfa0acb59.js?body=1" for 82.11.215.109 at 2016-01-15 21:06:35 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/tab.self-dad0d5c377f9fae26394484535ebb23ccf68afae084f896af6ea4cdf8c9f6ae0.js?body=1" for 82.11.215.109 at 2016-01-15 21:06:35 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/carousel.self-35d204878d906298e55bc24553e11fd89b980fc4ffe5792fe36af8c0da289c54.js?body=1" for 82.11.215.109 at 2016-01-15 21:06:35 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap-sprockets.self-fbfa5ad7d9aa0afe439ec4ff3883acc4cb92b62cb67c40d674320c9aa1d4642d.js?body=1" for 82.11.215.109 at 2016-01-15 21:06:35 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/scrollspy.self-52afd90e8ba97d9f08617a13986e8869d6c4a45751c0bff59a6f91241e722aca.js?body=1" for 82.11.215.109 at 2016-01-15 21:06:35 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/dropdown.self-e56c2ffee4618411d43ecf15c89273f6223847ad756e1cd17545d04afa732ed4.js?body=1" for 82.11.215.109 at 2016-01-15 21:06:35 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/transition.self-3b268d4cd8c79e46ded7392885f72f64ffb5b0d49948a12b8cf9779f6163e13a.js?body=1" for 82.11.215.109 at 2016-01-15 21:06:35 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/tooltip.self-facdc69246a072acb927ded77ff655f7c27a518b9357fddd45d119fbc8a0ab9f.js?body=1" for 82.11.215.109 at 2016-01-15 21:06:35 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for 82.11.215.109 at 2016-01-15 21:06:35 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for 82.11.215.109 at 2016-01-15 21:06:35 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/popover.self-210cff1fb4b72b71a29b5122180cb5937c8145cd13a934dc838280f1d9607a3e.js?body=1" for 82.11.215.109 at 2016-01-15 21:06:35 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/dmr_2-a240b5082d3e5bd95b49910a16bd9b4e90f62b735187c7006cdb2ae04689d5f2.gif" for 82.11.215.109 at 2016-01-15 21:06:35 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/" for 82.11.215.109 at 2016-01-15 21:15:56 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (0.1ms)
+  Rendered layouts/_navigation.html.erb (0.5ms)
+  Rendered layouts/_messages.html.erb (0.1ms)
+  Rendered layouts/_footer.html.erb (0.5ms)
+Completed 200 OK in 231ms (Views: 230.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/custom.self-fe1d155f34521a76232e46b449e25c855215d5fa0fac59f94fc3eb70b29ac140.css?body=1" for 82.11.215.109 at 2016-01-15 21:15:56 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/button.self-e74d33ba39500940a78d6fa4d2d64f6ca7fd86d60a2149641f7fde7ba711d8a1.js?body=1" for 82.11.215.109 at 2016-01-15 21:15:56 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for 82.11.215.109 at 2016-01-15 21:15:56 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for 82.11.215.109 at 2016-01-15 21:15:56 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for 82.11.215.109 at 2016-01-15 21:15:56 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/alert.self-d8b7bd612b3dcfdefb7b5539b9d5848d66ccbd3e7af8bb8d48bfb3288aaa7be8.js?body=1" for 82.11.215.109 at 2016-01-15 21:15:56 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/affix.self-3555752f8a930795ee9e56751a52e6871104ae85d01b3ab8363da3802a5ecc78.js?body=1" for 82.11.215.109 at 2016-01-15 21:15:56 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/carousel.self-35d204878d906298e55bc24553e11fd89b980fc4ffe5792fe36af8c0da289c54.js?body=1" for 82.11.215.109 at 2016-01-15 21:15:56 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/modal.self-62463080dba6b9d024ff0a3192da0e76eacbc683194f3395047c6f5cfa0acb59.js?body=1" for 82.11.215.109 at 2016-01-15 21:15:56 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/tab.self-dad0d5c377f9fae26394484535ebb23ccf68afae084f896af6ea4cdf8c9f6ae0.js?body=1" for 82.11.215.109 at 2016-01-15 21:15:56 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/tooltip.self-facdc69246a072acb927ded77ff655f7c27a518b9357fddd45d119fbc8a0ab9f.js?body=1" for 82.11.215.109 at 2016-01-15 21:15:56 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap-sprockets.self-fbfa5ad7d9aa0afe439ec4ff3883acc4cb92b62cb67c40d674320c9aa1d4642d.js?body=1" for 82.11.215.109 at 2016-01-15 21:15:56 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/collapse.self-056c40532d9f0f126ec17e839f60c942f573fbd61a086e7f156306e3fc5e8c1f.js?body=1" for 82.11.215.109 at 2016-01-15 21:15:56 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/scrollspy.self-52afd90e8ba97d9f08617a13986e8869d6c4a45751c0bff59a6f91241e722aca.js?body=1" for 82.11.215.109 at 2016-01-15 21:15:56 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for 82.11.215.109 at 2016-01-15 21:15:56 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/transition.self-3b268d4cd8c79e46ded7392885f72f64ffb5b0d49948a12b8cf9779f6163e13a.js?body=1" for 82.11.215.109 at 2016-01-15 21:15:57 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/popover.self-210cff1fb4b72b71a29b5122180cb5937c8145cd13a934dc838280f1d9607a3e.js?body=1" for 82.11.215.109 at 2016-01-15 21:15:57 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for 82.11.215.109 at 2016-01-15 21:15:57 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/dropdown.self-e56c2ffee4618411d43ecf15c89273f6223847ad756e1cd17545d04afa732ed4.js?body=1" for 82.11.215.109 at 2016-01-15 21:15:57 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/dmr_2-a240b5082d3e5bd95b49910a16bd9b4e90f62b735187c7006cdb2ae04689d5f2.gif" for 82.11.215.109 at 2016-01-15 21:15:57 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/" for 82.11.215.109 at 2016-01-15 21:18:52 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (0.1ms)
+Completed 500 Internal Server Error in 72ms (ActiveRecord: 0.0ms)
+
+ActionView::Template::Error (Invalid CSS after "  margin-top 50px": expected "{", was ";"):
+     6: <html>
+     7: <head>
+     8:   <title>AlphaBlog</title>
+     9:   <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track' => true %>
+    10:   <%= javascript_include_tag 'application', 'data-turbolinks-track' => true %>
+    11:   <%= csrf_meta_tags %>
+    12: </head>
+  app/assets/stylesheets/custom.css.scss:44
+  app/views/layouts/application.html.erb:9:in `_app_views_layouts_application_html_erb___3776242767260274944_69966205722300'
+
+
+  Rendered /usr/local/rvm/gems/ruby-2.2.1/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_source.erb (17.6ms)
+  Rendered /usr/local/rvm/gems/ruby-2.2.1/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (3.3ms)
+  Rendered /usr/local/rvm/gems/ruby-2.2.1/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.0ms)
+  Rendered /usr/local/rvm/gems/ruby-2.2.1/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (86.6ms)
+
+
+Started GET "/" for 82.11.215.109 at 2016-01-15 21:19:01 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (0.2ms)
+Completed 500 Internal Server Error in 39ms (ActiveRecord: 0.0ms)
+
+ActionView::Template::Error (Invalid CSS after "  margin-top:": expected expression (e.g. 1px, bold), was "; 50px;"):
+     6: <html>
+     7: <head>
+     8:   <title>AlphaBlog</title>
+     9:   <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track' => true %>
+    10:   <%= javascript_include_tag 'application', 'data-turbolinks-track' => true %>
+    11:   <%= csrf_meta_tags %>
+    12: </head>
+  app/assets/stylesheets/custom.css.scss:44
+  app/views/layouts/application.html.erb:9:in `_app_views_layouts_application_html_erb___3776242767260274944_69966205722300'
+
+
+  Rendered /usr/local/rvm/gems/ruby-2.2.1/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_source.erb (27.8ms)
+  Rendered /usr/local/rvm/gems/ruby-2.2.1/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (7.1ms)
+  Rendered /usr/local/rvm/gems/ruby-2.2.1/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.6ms)
+  Rendered /usr/local/rvm/gems/ruby-2.2.1/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (97.5ms)
+
+
+Started GET "/" for 82.11.215.109 at 2016-01-15 21:19:10 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (0.2ms)
+  Rendered layouts/_navigation.html.erb (0.5ms)
+  Rendered layouts/_messages.html.erb (0.1ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 2750ms (Views: 2749.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/custom.self-01900474499b606cb67ad9542b3f2e6077592da6d1e893d0f68da25cef248836.css?body=1" for 82.11.215.109 at 2016-01-15 21:19:13 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for 82.11.215.109 at 2016-01-15 21:19:13 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for 82.11.215.109 at 2016-01-15 21:19:13 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/alert.self-d8b7bd612b3dcfdefb7b5539b9d5848d66ccbd3e7af8bb8d48bfb3288aaa7be8.js?body=1" for 82.11.215.109 at 2016-01-15 21:19:13 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for 82.11.215.109 at 2016-01-15 21:19:13 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/affix.self-3555752f8a930795ee9e56751a52e6871104ae85d01b3ab8363da3802a5ecc78.js?body=1" for 82.11.215.109 at 2016-01-15 21:19:13 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/button.self-e74d33ba39500940a78d6fa4d2d64f6ca7fd86d60a2149641f7fde7ba711d8a1.js?body=1" for 82.11.215.109 at 2016-01-15 21:19:13 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/collapse.self-056c40532d9f0f126ec17e839f60c942f573fbd61a086e7f156306e3fc5e8c1f.js?body=1" for 82.11.215.109 at 2016-01-15 21:19:13 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/modal.self-62463080dba6b9d024ff0a3192da0e76eacbc683194f3395047c6f5cfa0acb59.js?body=1" for 82.11.215.109 at 2016-01-15 21:19:13 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/tab.self-dad0d5c377f9fae26394484535ebb23ccf68afae084f896af6ea4cdf8c9f6ae0.js?body=1" for 82.11.215.109 at 2016-01-15 21:19:13 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/tooltip.self-facdc69246a072acb927ded77ff655f7c27a518b9357fddd45d119fbc8a0ab9f.js?body=1" for 82.11.215.109 at 2016-01-15 21:19:13 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/carousel.self-35d204878d906298e55bc24553e11fd89b980fc4ffe5792fe36af8c0da289c54.js?body=1" for 82.11.215.109 at 2016-01-15 21:19:13 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/scrollspy.self-52afd90e8ba97d9f08617a13986e8869d6c4a45751c0bff59a6f91241e722aca.js?body=1" for 82.11.215.109 at 2016-01-15 21:19:13 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/dropdown.self-e56c2ffee4618411d43ecf15c89273f6223847ad756e1cd17545d04afa732ed4.js?body=1" for 82.11.215.109 at 2016-01-15 21:19:13 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/transition.self-3b268d4cd8c79e46ded7392885f72f64ffb5b0d49948a12b8cf9779f6163e13a.js?body=1" for 82.11.215.109 at 2016-01-15 21:19:13 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap-sprockets.self-fbfa5ad7d9aa0afe439ec4ff3883acc4cb92b62cb67c40d674320c9aa1d4642d.js?body=1" for 82.11.215.109 at 2016-01-15 21:19:13 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for 82.11.215.109 at 2016-01-15 21:19:13 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/popover.self-210cff1fb4b72b71a29b5122180cb5937c8145cd13a934dc838280f1d9607a3e.js?body=1" for 82.11.215.109 at 2016-01-15 21:19:13 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for 82.11.215.109 at 2016-01-15 21:19:13 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/dmr_2-a240b5082d3e5bd95b49910a16bd9b4e90f62b735187c7006cdb2ae04689d5f2.gif" for 82.11.215.109 at 2016-01-15 21:19:13 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/" for 82.11.215.109 at 2016-01-15 21:22:39 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (0.1ms)
+Completed 500 Internal Server Error in 50ms (ActiveRecord: 0.0ms)
+
+ActionView::Template::Error (Invalid CSS after "  colorL #222": expected "{", was ";"):
+     6: <html>
+     7: <head>
+     8:   <title>AlphaBlog</title>
+     9:   <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track' => true %>
+    10:   <%= javascript_include_tag 'application', 'data-turbolinks-track' => true %>
+    11:   <%= csrf_meta_tags %>
+    12: </head>
+  app/assets/stylesheets/custom.css.scss:51
+  app/views/layouts/application.html.erb:9:in `_app_views_layouts_application_html_erb___3776242767260274944_69966205722300'
+
+
+  Rendered /usr/local/rvm/gems/ruby-2.2.1/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_source.erb (20.1ms)
+  Rendered /usr/local/rvm/gems/ruby-2.2.1/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (2.8ms)
+  Rendered /usr/local/rvm/gems/ruby-2.2.1/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.7ms)
+  Rendered /usr/local/rvm/gems/ruby-2.2.1/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (79.7ms)
+
+
+Started GET "/" for 82.11.215.109 at 2016-01-15 21:22:56 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (0.1ms)
+  Rendered layouts/_navigation.html.erb (0.3ms)
+  Rendered layouts/_messages.html.erb (0.1ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 2291ms (Views: 2290.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/custom.self-bf27336fa47d69ebb8f509b1c0e5fddc1da0af3d22a418d9bd2c8b4e84f781d2.css?body=1" for 82.11.215.109 at 2016-01-15 21:22:59 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for 82.11.215.109 at 2016-01-15 21:22:59 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/alert.self-d8b7bd612b3dcfdefb7b5539b9d5848d66ccbd3e7af8bb8d48bfb3288aaa7be8.js?body=1" for 82.11.215.109 at 2016-01-15 21:22:59 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for 82.11.215.109 at 2016-01-15 21:22:59 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/affix.self-3555752f8a930795ee9e56751a52e6871104ae85d01b3ab8363da3802a5ecc78.js?body=1" for 82.11.215.109 at 2016-01-15 21:22:59 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for 82.11.215.109 at 2016-01-15 21:22:59 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/button.self-e74d33ba39500940a78d6fa4d2d64f6ca7fd86d60a2149641f7fde7ba711d8a1.js?body=1" for 82.11.215.109 at 2016-01-15 21:22:59 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/collapse.self-056c40532d9f0f126ec17e839f60c942f573fbd61a086e7f156306e3fc5e8c1f.js?body=1" for 82.11.215.109 at 2016-01-15 21:22:59 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/tab.self-dad0d5c377f9fae26394484535ebb23ccf68afae084f896af6ea4cdf8c9f6ae0.js?body=1" for 82.11.215.109 at 2016-01-15 21:22:59 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/modal.self-62463080dba6b9d024ff0a3192da0e76eacbc683194f3395047c6f5cfa0acb59.js?body=1" for 82.11.215.109 at 2016-01-15 21:22:59 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/tooltip.self-facdc69246a072acb927ded77ff655f7c27a518b9357fddd45d119fbc8a0ab9f.js?body=1" for 82.11.215.109 at 2016-01-15 21:22:59 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/carousel.self-35d204878d906298e55bc24553e11fd89b980fc4ffe5792fe36af8c0da289c54.js?body=1" for 82.11.215.109 at 2016-01-15 21:22:59 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/dropdown.self-e56c2ffee4618411d43ecf15c89273f6223847ad756e1cd17545d04afa732ed4.js?body=1" for 82.11.215.109 at 2016-01-15 21:22:59 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/transition.self-3b268d4cd8c79e46ded7392885f72f64ffb5b0d49948a12b8cf9779f6163e13a.js?body=1" for 82.11.215.109 at 2016-01-15 21:22:59 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/scrollspy.self-52afd90e8ba97d9f08617a13986e8869d6c4a45751c0bff59a6f91241e722aca.js?body=1" for 82.11.215.109 at 2016-01-15 21:22:59 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/popover.self-210cff1fb4b72b71a29b5122180cb5937c8145cd13a934dc838280f1d9607a3e.js?body=1" for 82.11.215.109 at 2016-01-15 21:22:59 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap-sprockets.self-fbfa5ad7d9aa0afe439ec4ff3883acc4cb92b62cb67c40d674320c9aa1d4642d.js?body=1" for 82.11.215.109 at 2016-01-15 21:22:59 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for 82.11.215.109 at 2016-01-15 21:22:59 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for 82.11.215.109 at 2016-01-15 21:22:59 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/dmr_2-a240b5082d3e5bd95b49910a16bd9b4e90f62b735187c7006cdb2ae04689d5f2.gif" for 82.11.215.109 at 2016-01-15 21:22:59 +0000
+Cannot render console from 82.11.215.109! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
