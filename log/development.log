@@ -15164,3 +15164,20 @@ DEPRECATION WARNING: `#timestamps` was called without specifying an option for `
   [1m[35m (0.1ms)[0m  begin transaction
   [1m[36mSQL (0.6ms)[0m  [1mINSERT INTO "users" ("username", "email", "created_at", "updated_at") VALUES (?, ?, ?, ?)[0m  [["username", "David"], ["email", "inbox@davebart.com"], ["created_at", "2016-01-17 15:19:08.827432"], ["updated_at", "2016-01-17 15:19:08.827432"]]
   [1m[35m (13.1ms)[0m  commit transaction
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+  [1m[35m (1.2ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.2ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.4ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36mUser Load (3.8ms)[0m  [1mSELECT "users".* FROM "users"[0m
+  [1m[35m (0.2ms)[0m  begin transaction
+  [1m[36mUser Exists (0.2ms)[0m  [1mSELECT  1 AS one FROM "users" WHERE LOWER("users"."username") = LOWER('david') LIMIT 1[0m
+  [1m[35mUser Exists (0.1ms)[0m  SELECT  1 AS one FROM "users" WHERE LOWER("users"."email") = LOWER('dave.com') LIMIT 1
+  [1m[36m (0.1ms)[0m  [1mrollback transaction[0m
