@@ -15149,3 +15149,18 @@ Processing by ArticlesController#new as HTML
   Rendered layouts/_messages.html.erb (0.3ms)
   Rendered layouts/_footer.html.erb (0.2ms)
 Completed 200 OK in 179ms (Views: 178.5ms | ActiveRecord: 0.0ms)
+  [1m[36mActiveRecord::SchemaMigration Load (0.2ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Migrating to CreateUsers (20160117144134)
+  [1m[35m (0.1ms)[0m  begin transaction
+DEPRECATION WARNING: `#timestamps` was called without specifying an option for `null`. In Rails 5, this behavior will change to `null: false`. You should manually specify `null: true` to prevent the behavior of your existing migrations from changing. (called from block in change at /home/ubuntu/_projects/blog/db/migrate/20160117144134_create_users.rb:6)
+  [1m[36m (0.6ms)[0m  [1mCREATE TABLE "users" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "username" varchar, "email" varchar, "created_at" datetime, "updated_at" datetime) [0m
+  [1m[35mSQL (0.2ms)[0m  INSERT INTO "schema_migrations" ("version") VALUES (?)  [["version", "20160117144134"]]
+  [1m[36m (16.5ms)[0m  [1mcommit transaction[0m
+  [1m[35mActiveRecord::SchemaMigration Load (0.2ms)[0m  SELECT "schema_migrations".* FROM "schema_migrations"
+  [1m[36mArticle Load (0.4ms)[0m  [1mSELECT "articles".* FROM "articles"[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.2ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[35mActiveRecord::SchemaMigration Load (0.2ms)[0m  SELECT "schema_migrations".* FROM "schema_migrations"
+  [1m[36mUser Load (4.4ms)[0m  [1mSELECT "users".* FROM "users"[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36mSQL (0.6ms)[0m  [1mINSERT INTO "users" ("username", "email", "created_at", "updated_at") VALUES (?, ?, ?, ?)[0m  [["username", "David"], ["email", "inbox@davebart.com"], ["created_at", "2016-01-17 15:19:08.827432"], ["updated_at", "2016-01-17 15:19:08.827432"]]
+  [1m[35m (13.1ms)[0m  commit transaction
