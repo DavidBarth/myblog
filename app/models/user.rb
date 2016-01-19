@@ -11,4 +11,7 @@ class User < ActiveRecord::Base
             uniqueness: { case_sensitive: false },
             format: { with: VALID_EMAIL_REGEX }
   
+  #http://api.rubyonrails.org/classes/ActiveModel/SecurePassword/ClassMethods.html
+  #modify gem file according to the info in the above link
+  has_secure_password
 end
