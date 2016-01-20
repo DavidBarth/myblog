@@ -1,4 +1,15 @@
-Repository for first app.
+Repository for first rails app.
 
--  an article table sofar for the blog
-- CRUD implemented for article table
+Current standings:
+
+- functioning articles listing ->Articles menu
+- CRUD operations on articles -> Actions/Create Article menu
+- functioning sign up with user validation( currently hard coded to have the function running ) -> Homepage Signup
+
+Dave
+
+www.davebart.com
+
+
+
+
