@@ -19,7 +19,9 @@ class ArticlesController < ApplicationController
   def create
     @article = Article.new(article_params)
     
-    #hardcoded user to make create action function
+    #hardcoded user to make create action functional
+    #without this line create acton takes only params that are defined article_params
+    #that is title and description
     @article.user = User.first
     
     if @article.save
