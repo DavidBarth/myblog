@@ -14,6 +14,7 @@ Rails.application.routes.draw do
   resources :articles
   
   #route signup www.something/signup to users controller new method
+  #                   user controller new action
   get 'signup' , to: 'users#new'
   
   post 'users', to: 'users#create'
