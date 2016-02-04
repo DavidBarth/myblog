@@ -22,7 +22,11 @@ class ArticlesController < ApplicationController
     #hardcoded user to make create action functional
     #without this line create acton takes only params that are defined article_params
     #that is title and description
-    @article.user = User.first
+    
+    
+    #@article.user = User.first
+    
+    @article.user = User.last
     
     if @article.save
       flash[:success] = "Article was successfully created"
