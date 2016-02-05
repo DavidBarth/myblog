@@ -2,6 +2,8 @@ class UsersController < ApplicationController
   # we will have the @user instance variable ready before the actions below will take place
   # the set_user method is defined privately at the bottom
   before_action :set_user, only: [:edit, :update, :show]
+  before_action :require_same_user, only: [:edit, :update]
+  
   def index
     @users = User.paginate(page: params[:page], per_page: 5)
   end
@@ -49,4 +51,12 @@ class UsersController < ApplicationController
   def set_user
      @user = User.find(params[:id])
   end
+  
+  def require_same_user
+    if current_user != @user
+      flash[:danger] = "You can only edit your own profie"
+      redirect_to root_path
+    end
+  end
+  
 end

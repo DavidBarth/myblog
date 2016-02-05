@@ -16,7 +16,7 @@ class ApplicationController < ActionController::Base
     !!current_user
   end
   
-  
+  #helper method as before action
   def require_user
     if !logged_in?
       flash[:danger] = "You must be logged in to perfom that action"
