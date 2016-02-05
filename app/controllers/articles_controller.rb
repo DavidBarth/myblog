@@ -22,15 +22,7 @@ class ArticlesController < ApplicationController
   
   def create
     @article = Article.new(article_params)
-    
-    #hardcoded user to make create action functional
-    #without this line create acton takes only params that are defined article_params
-    #that is title and description
-    
-    
-    @article.user = User.first
-    
-    
+    @article.user = current_user
     
     if @article.save
       flash[:success] = "Article was successfully created"
@@ -70,7 +62,7 @@ class ArticlesController < ApplicationController
       flash[:danger] = "You can only delete your own articles"
       redirect_to root_path
     end
-  end
+  end 
   
 
   private
